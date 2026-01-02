@@ -20,6 +20,7 @@ This project demonstrates how **linear algebra** powers recommendation systems t
 ```bash
 pip install -r requirements.txt
 python main.py
+```
 
 ## Dataset
 This project uses the MovieLens 100K dataset by GroupLens.
@@ -33,3 +34,4 @@ This project uses the MovieLens 100K dataset by GroupLens.
 - Predicts unseen movie ratings
 - Generates personalized recommendations
 - Scales to real-world datasets
+
